@@ -1,4 +1,4 @@
-# appium-screen
+# screenium
 
 A Python 2/3 wrapper for Appium. 
 
